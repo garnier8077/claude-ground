@@ -1,0 +1,10 @@
+{
+  "name": "claude-ground",
+  "version": "0.1.0",
+  "description": "A modular rules & skills system for Claude Code \u2014 organize, share, and supercharge your AI coding workflow",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
