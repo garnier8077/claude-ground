@@ -1,6 +1,6 @@
 {
   "name": "claude-ground",
-  "version": "0.1.49",
+  "version": "0.1.50",
   "description": "A modular rules & skills system for Claude Code \u2014 organize, share, and supercharge your AI coding workflow",
   "main": "src/index.js",
   "scripts": {
